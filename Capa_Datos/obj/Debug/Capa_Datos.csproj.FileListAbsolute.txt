@@ -1,0 +1,9 @@
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Datos\obj\Debug\Capa_Datos.csproj.Up2Date

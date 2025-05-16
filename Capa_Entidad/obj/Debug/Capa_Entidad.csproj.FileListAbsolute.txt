@@ -1,0 +1,6 @@
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Entidad\obj\Debug\Capa_Entidad.pdb

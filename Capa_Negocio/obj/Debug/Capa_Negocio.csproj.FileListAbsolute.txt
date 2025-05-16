@@ -1,0 +1,11 @@
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\obj\Debug\Capa_Neg.64FC8661.Up2Date
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\Luis\Desktop\SysServices 0.1.0\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
